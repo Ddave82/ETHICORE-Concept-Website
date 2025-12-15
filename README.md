@@ -8,7 +8,7 @@
 
 **A modern, premium landing page showcasing cutting-edge web design and animation techniques**
 
-[🌐 Live Demo](#) • [📖 Documentation](#features) • [🎨 Design System](#design-system) • [🚀 Quick Start](#quick-start)
+[🌐 Live Demo](https://yourdomain.com) • [📖 View Source](#-project-structure) • [🎨 Design System](#-design-system) • [💼 Portfolio Use](#-use-cases)
 
 </div>
 
@@ -16,28 +16,31 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [✨ Features](#features)
-- [🎨 Design System](#design-system)
-- [🚀 Quick Start](#quick-start)
-- [📁 Project Structure](#project-structure)
-- [🛠️ Technologies](#technologies)
-- [⚡ Performance](#performance)
-- [🎯 Use Cases](#use-cases)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
+- [🎯 Overview](#-overview)
+- [✨ Features](#-features)
+- [🎨 Design System](#-design-system)
+- [🚀 Quick Start](#-quick-start)
+- [📁 Project Structure](#-project-structure)
+- [🛠️ Technologies](#️-technologies)
+- [⚡ Performance](#-performance)
+- [🎯 Use Cases](#-use-cases)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
 ## 🎯 Overview
 
-ETHicore is a **premium, production-ready landing page** built with modern web technologies. This project demonstrates advanced CSS animations, JavaScript interactions, and best practices for creating high-converting SaaS landing pages.
+ETHicore is a **premium, production-ready landing page demo** showcasing modern web design techniques. This is a **portfolio piece** demonstrating advanced CSS animations, JavaScript interactions, and best practices for creating high-converting SaaS landing pages.
+
+**This is a demonstration project, not a downloadable template.**
 
 Perfect for:
-- **Portfolio showcases** for web designers/developers
-- **Startup landing pages** for AI/Tech companies
-- **Design system reference** for modern web projects
+- **Inspiration** for your own web projects
+- **Portfolio showcase** demonstrating web design skills
+- **Design reference** for modern web aesthetics
 - **Learning resource** for advanced CSS/JS techniques
+- **Client presentations** showing what's possible
 
 ### 🌟 Why This Project?
 
@@ -154,33 +157,41 @@ Scale:
 ### Prerequisites
 
 - Modern web browser (Chrome, Firefox, Safari, Edge)
-- Text editor (VS Code recommended)
-- Local server (optional, but recommended)
+- That's it! No installation needed.
 
-### Installation
+### View the Project
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ethicore-landing.git
-
-# Navigate to project
-cd ethicore-landing
-
-# Open with live server or simply open index.html
-# Recommended: Use VS Code Live Server extension
+**Option 1: Live Demo**
+```
+🌐 Visit: https://yourdomain.com/ethicore-landing
 ```
 
-### Development
+**Option 2: View Source Code**
+```
+📁 Browse files on GitHub
+💻 Inspect the code directly
+🎨 Study the techniques used
+```
+
+**Option 3: Fork & Customize**
+```bash
+# Fork this repository on GitHub
+# Make it your own!
+# Deploy to Netlify/Vercel/GitHub Pages
+```
+
+### For Developers/Designers
+
+If you want to study the code or use it as a reference:
 
 ```bash
-# Option 1: VS Code Live Server
-# Right-click index.html → "Open with Live Server"
+# View the raw files on GitHub
+# Click "Code" → "Download ZIP"
+# Or use GitHub's code viewer
 
-# Option 2: Python HTTP Server
-python -m http.server 8000
-
-# Option 3: Node.js HTTP Server
-npx http-server
+# To run locally (optional):
+# Simply open index.html in your browser
+# Or use any local server
 ```
 
 ### Customization
