@@ -1,6 +1,6 @@
 # 🚀 ETHicore - Premium AI Ethics Landing Page
 
-![Screenshot](https://github.com/Ddave82/ETHICORE-Concept-Website/blob/main/images/screenshot.png?raw=1)
+![Screenshot](images/screenshot.jpg)
 
 
 
