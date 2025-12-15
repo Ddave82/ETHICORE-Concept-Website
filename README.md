@@ -1,5 +1,7 @@
 # 🚀 ETHicore - Premium AI Ethics Landing Page
 
+![Screenshot](./images/screenshot.png)
+
 <div align="center">
 
 **ETHicore — Ethical AI Automation**  
