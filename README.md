@@ -24,7 +24,7 @@
 - [🛠️ Technologies](#️-technologies)
 - [⚡ Performance](#-performance)
 - [🎯 Use Cases](#-use-cases)
-- [🤝 Contributing](#-contributing)
+- [📸 Screenshots](#-screenshots)
 - [📄 License](#-license)
 
 ---
@@ -180,26 +180,15 @@ Scale:
 # Deploy to Netlify/Vercel/GitHub Pages
 ```
 
-### For Developers/Designers
+### View the Code
 
-If you want to study the code or use it as a reference:
+Want to see how it's built? The source code is available on GitHub for educational purposes.
 
-```bash
-# View the raw files on GitHub
-# Click "Code" → "Download ZIP"
-# Or use GitHub's code viewer
-
-# To run locally (optional):
-# Simply open index.html in your browser
-# Or use any local server
 ```
-
-### Customization
-
-1. **Colors**: Edit CSS variables in `:root` selector (line 30-60 in `style.css`)
-2. **Content**: Update text in `index.html`
-3. **Animations**: Adjust keyframes and timing in `style.css`
-4. **Interactions**: Modify functions in `script.js`
+📁 Browse the repository
+💻 View HTML, CSS, JavaScript files
+🎨 Study the animation techniques
+```
 
 ---
 
@@ -298,121 +287,51 @@ requestAnimationFrame(() => {
 
 ## 🎯 Use Cases
 
-### 1. 💼 Portfolio Showcase
+### 1. 💼 Web Design Portfolio
 
-Perfect for showcasing your web design/development skills to potential clients or employers.
+Showcase modern web design capabilities to potential clients and employers.
 
-**What to highlight:**
-- Modern CSS animations
-- JavaScript interactions
-- Responsive design
+**Demonstrates:**
+- Advanced CSS animations & 3D transforms
+- Modern JavaScript interactions
+- Responsive design principles
+- Performance optimization techniques
+
+### 2. 🎨 Design Inspiration
+
+Reference for modern SaaS landing page aesthetics.
+
+**Key Elements:**
+- Glassmorphism effects
+- Gradient color schemes
+- Micro-interactions
+- Typography hierarchy
+- Spacing systems
+
+### 3. 📚 Educational Resource
+
+Study advanced web development techniques.
+
+**Learn:**
+- CSS 3D transforms and animations
+- Particle systems with JavaScript
+- Intersection Observer API
 - Performance optimization
+- Modern layout techniques
 
-### 2. 🚀 Startup Landing Page
+### 4. 💡 Client Presentations
 
-Use as a template for AI/Tech startup landing pages.
+Show potential clients what's possible with modern web technologies.
 
-**Customize:**
-- Replace "ETHicore" with your brand
-- Update colors in CSS variables
-- Add your own content and images
-- Connect contact form to backend
-
-### 3. 📚 Learning Resource
-
-Study the code to learn advanced techniques:
-- CSS 3D transforms
-- Particle systems
-- Glassmorphism
-- Scroll animations
-- Performance optimization
-
-### 4. 🎨 Design System
-
-Extract the design system for use in other projects:
-- Color palette
-- Typography scale
-- Spacing system
-- Component library
+**Highlights:**
+- Premium visual effects
+- Smooth 60fps animations
+- Interactive elements
+- Professional design system
 
 ---
 
-## 📦 Deployment
-
-### Option 1: GitHub Pages
-
-```bash
-# Push to GitHub
-git add .
-git commit -m "Initial commit"
-git push origin main
-
-# Enable GitHub Pages in repository settings
-# Settings → Pages → Source: main branch
-```
-
-### Option 2: Netlify
-
-```bash
-# Install Netlify CLI
-npm install -g netlify-cli
-
-# Deploy
-netlify deploy --prod
-```
-
-### Option 3: Vercel
-
-```bash
-# Install Vercel CLI
-npm install -g vercel
-
-# Deploy
-vercel --prod
-```
-
----
-
-## 🎨 Customization Guide
-
-### Change Colors
-
-```css
-/* style.css - line 30 */
-:root {
-    --primary-blue: #YOUR_COLOR;
-    --light-blue: #YOUR_COLOR;
-    --navy: #YOUR_COLOR;
-}
-```
-
-### Adjust Animations
-
-```css
-/* style.css - Animation speeds */
-.ai-cube {
-    animation: rotateCube 20s linear infinite; /* Change 20s */
-}
-
-.light-sweep {
-    animation: lightSweep 12s ease-in-out infinite; /* Change 12s */
-}
-```
-
-### Modify Content
-
-```html
-<!-- index.html - Hero section -->
-<h1 class="hero-title">
-    Your New<br>
-    Headline<br>
-    <span class="gradient-text">Here</span>
-</h1>
-```
-
----
-
-## 🐛 Known Issues
+## 🐛 Technical Notes
 
 - **Safari iOS**: Minor backdrop-filter performance issues on older devices
 - **Firefox**: Slight difference in gradient rendering
@@ -428,43 +347,6 @@ vercel --prod
     }
 }
 ```
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] Dark mode toggle
-- [ ] Animated counters (500+ Companies)
-- [ ] Testimonial carousel
-- [ ] Video modal for demo
-- [ ] Bento grid layout for features
-- [ ] Logo cloud (trusted companies)
-- [ ] Magnetic button effect
-- [ ] Loading screen animation
-- [ ] Cookie consent banner
-- [ ] Contact form backend integration
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### How to Contribute
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow existing code style
-- Comment complex logic
-- Test on multiple browsers
-- Optimize for performance
-- Update documentation
 
 ---
 
@@ -552,25 +434,6 @@ Want to learn how this was built? Check out:
 - [MDN - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [Web.dev - Intersection Observer](https://web.dev/intersectionobserver-v2/)
 - [CSS-Tricks - CSS 3D Transforms](https://css-tricks.com/how-css-perspective-works/)
-
----
-
-## 💡 Pro Tips
-
-```javascript
-// Performance monitoring
-const observer = new PerformanceObserver((list) => {
-    for (const entry of list.getEntries()) {
-        console.log(`${entry.name}: ${entry.duration}ms`);
-    }
-});
-observer.observe({ entryTypes: ['measure'] });
-
-// Debug animations
-document.addEventListener('animationstart', (e) => {
-    console.log(`Animation started: ${e.animationName}`);
-});
-```
 
 ---
 
