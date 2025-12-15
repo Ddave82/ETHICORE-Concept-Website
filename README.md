@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![ETHicore Banner](https://img.shields.io/badge/ETHicore-Ethical_AI_Automation-00D9FF?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-0066FF?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+**ETHicore — Ethical AI Automation**  
+**Version:** 1.0.0  
+**License:** MIT
 
 **A modern, premium landing page showcasing cutting-edge web design and animation techniques**
 
-[🌐 Live Demo](https://yourdomain.com) • [📖 View Source](#-project-structure) • [🎨 Design System](#-design-system) • [💼 Portfolio Use](#-use-cases)
+Live Demo • View Source • Design System • Portfolio Use
 
 </div>
 
@@ -16,16 +16,19 @@
 
 ## 📋 Table of Contents
 
-- [🎯 Overview](#-overview)
-- [✨ Features](#-features)
-- [🎨 Design System](#-design-system)
-- [🚀 Quick Start](#-quick-start)
-- [📁 Project Structure](#-project-structure)
-- [🛠️ Technologies](#️-technologies)
-- [⚡ Performance](#-performance)
-- [🎯 Use Cases](#-use-cases)
-- [📸 Screenshots](#-screenshots)
-- [📄 License](#-license)
+- 🎯 Overview
+- ✨ Features
+- 🎨 Design System
+- 🚀 Quick Start
+- 📁 Project Structure
+- 🛠️ Technologies
+- ⚡ Performance
+- 🎯 Use Cases
+- 📸 Screenshots
+- 📄 License
+- 📧 Contact
+- 📊 Code Statistics
+- 🎓 Learning Resources
 
 ---
 
@@ -162,16 +165,12 @@ Scale:
 ### View the Project
 
 **Option 1: Live Demo**
-```
-🌐 Visit: https://yourdomain.com/ethicore-landing
-```
+- Live demo URL removed
 
 **Option 2: View Source Code**
-```
-📁 Browse files on GitHub
-💻 Inspect the code directly
-🎨 Study the techniques used
-```
+- Browse files on GitHub (link removed)
+- Inspect the code directly
+- Study the techniques used
 
 **Option 3: Fork & Customize**
 ```bash
@@ -217,9 +216,7 @@ ethicore-landing/
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+HTML5 • CSS3 • JavaScript
 
 </div>
 
@@ -365,7 +362,7 @@ Show potential clients what's possible with modern web technologies.
 
 ## 🙏 Acknowledgments
 
-- **Inter Font** - [Google Fonts](https://fonts.google.com/specimen/Inter)
+- **Inter Font** - Google Fonts (link removed)
 - **Design Inspiration** - Apple, Vercel, Stripe, Linear
 - **Color Palette** - Cyan to Blue gradient scheme
 - **Icons** - Custom SVG icons
@@ -374,7 +371,7 @@ Show potential clients what's possible with modern web technologies.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ```
 MIT License
@@ -390,11 +387,11 @@ in the Software without restriction...
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
+**Your Name** - @yourtwitter (link removed)
 
-**Project Link**: [https://github.com/yourusername/ethicore-landing](https://github.com/yourusername/ethicore-landing)
+**Project Link**: (removed)
 
-**Portfolio**: [https://yourportfolio.com](https://yourportfolio.com)
+**Portfolio**: (removed)
 
 ---
 
@@ -404,7 +401,7 @@ in the Software without restriction...
 
 Made with ❤️ and lots of ☕
 
-**[Back to Top ↑](#-ethicore---premium-ai-ethics-landing-page)**
+Back to Top (removed)
 
 </div>
 
@@ -430,10 +427,10 @@ Total            3     3292       260       3032
 
 Want to learn how this was built? Check out:
 
-- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [MDN - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [Web.dev - Intersection Observer](https://web.dev/intersectionobserver-v2/)
-- [CSS-Tricks - CSS 3D Transforms](https://css-tricks.com/how-css-perspective-works/)
+- CSS Tricks - A Complete Guide to Flexbox (link removed)
+- MDN - CSS Grid Layout (link removed)
+- Web.dev - Intersection Observer (link removed)
+- CSS-Tricks - CSS 3D Transforms (link removed)
 
 ---
 
