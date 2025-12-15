@@ -17,8 +17,7 @@ Live Demo • View Source • Design System • Portfolio Use
 </div>
 
 ---
-[📋 Table of Contents]
-• [🎯 Overview](#-overview) • [✨ Features](#-features) • [🎨 Design System](#-design-system) • [🚀 Quick Start](#-quick-start) • [📁 Project Structure](#-project-structure) • [🛠️ Technologies](#️-technologies) • [⚡ Performance](#-performance) • [🎯 Use Cases](#-use-cases) • [📸 Screenshots](#-screenshots) • [📄 License](#-license) • [📧 Contact](#-contact)
+[🎯 Overview](#-overview) • [✨ Features](#-features) • [🎨 Design System](#-design-system) • [🚀 Quick Start](#-quick-start) • [📁 Project Structure](#-project-structure) • [🛠️ Technologies](#️-technologies) • [⚡ Performance](#-performance) • [🎯 Use Cases](#-use-cases) • [📸 Screenshots](#-screenshots) • [📄 License](#-license) • [📧 Contact](#-contact)
 
 
 ---
