@@ -1,6 +1,8 @@
 # 🚀 ETHicore - Premium AI Ethics Landing Page
 
-![Screenshot](images/screenshot.png)
+<p align="center">
+  <img src="images/screenshot.png" alt="Screenshot" />
+</p>
 
 
 
