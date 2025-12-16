@@ -2,7 +2,7 @@
 
 ![Screenshot](images/screenshot.jpg)
 
-**Live Demo:** [https://ddave82.github.io/ETHICORE-Concept-Website/](https://ddave82.github.io/ETHICORE-Concept-Website/)
+**Live Demo:** [ETHICORE ansehen](https://ddave82.github.io/ETHICORE-Concept-Website/)
 
 ---
 
